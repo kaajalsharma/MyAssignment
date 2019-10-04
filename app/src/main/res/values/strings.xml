@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Clock</string>
+    <string name="city1">Sydney</string>
+    <string name="city2">New York</string>
+    <string name="city3">Paris</string>
+    <string name="city4">Delhi</string>
+    <string name="city5">Rome</string>
+    <color name="orange">#FED8B1</color>
+    <color name="button_color">#FF8C00</color>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_tab">Tab</string>
+</resources>
